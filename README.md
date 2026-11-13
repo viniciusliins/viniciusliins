@@ -1,13 +1,11 @@
 <div align="center"><img src="./assets/cavaleiro-sentado.jpeg" width="100%" alt="Cavaleiro coroado observando um castelo sob a lua em uma paisagem medieval sombria">
 <h1>VINÍCIUS LINS</h1>
-<br>
-<br>
-
-
  
-ENGENHARIA DE SOFTWARE · DESENVOLVIMENTO DE SOFTWARE
+<br>
+<br>
 
-Disciplina para aprender, conhecimento para construir e constância para evoluir.
+
+<h4>Disciplina para aprender, conhecimento para construir e constância para evoluir.</h4>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=17&duration=3200&pause=1100&color=C9A66B&center=true&vCenter=true&width=680&lines=Construindo+uma+base+t%C3%A9cnica+s%C3%B3lida.;Transformando+estudo+em+projetos.;Evoluindo+um+commit+de+cada+vez." alt="Texto animado de apresentação">
 
@@ -31,6 +29,9 @@ Disciplina para aprender, conhecimento para construir e constância para evoluir
 <img src="https://komarev.com/ghpvc/?username=viniciusliins&style=flat-square&color=80643D&label=VISITAS+AO+PERFIL" alt="Contador de visitas do perfil">
 </div>
 
+<br>
+<br>
+
 <div align="center">
 <h3>SOBRE MIM</h3>
   <table>
@@ -38,8 +39,9 @@ Disciplina para aprender, conhecimento para construir e constância para evoluir
     <td width="65%" valign="middle">
       <br><br>
       Meu objetivo é desenvolver uma visão ampla da Engenharia de Software: compreender não apenas como criar interfaces, mas também          como projetar, implementar, testar e manter sistemas confiáveis.
-      <br><br>
-      **No momento, estou direcionando meus estudos para:**
+      <br>
+      <br>
+      <h4>No momento, estou direcionando meus estudos para:</h4>
       <ul>
         <li>Fundamentos de programação e resolução de problemas;</li>
         <li>Desenvolvimento web e construção de interfaces responsivas;</li>
@@ -56,33 +58,33 @@ Disciplina para aprender, conhecimento para construir e constância para evoluir
   
 </div>
 
+<br>
+<br>
 
+<div align="center">
 <h3>TECNOLOGIAS E FERRAMENTAS</h3>
-
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Node.js, npm, Git, GitHub e Visual Studio Code"></div>Tecnologias
-Tecnologia	Utilização / foco atual
-HTML5	Estruturação semântica de páginas web
-CSS3	Estilização, Flexbox, Grid e responsividade
-JavaScript	Lógica de programação, funções, arrays, DOM e eventos
-Node.js	Ambiente de execução JavaScript fora do navegador e contato com desenvolvimento Back-End
-
-
-Ferramentas de desenvolvimento
-Ferramenta	Utilização
-Visual Studio Code	Editor de código utilizado no desenvolvimento
-Git	Controle de versão e acompanhamento das alterações
-GitHub	Hospedagem de repositórios e apresentação dos projetos
-npm	Gerenciamento de pacotes do ecossistema Node.js
-Mobile View Preview	Visualização e conferência de layouts em diferentes tamanhos de tela
-
-
-Esta lista representa as tecnologias e ferramentas que utilizo ou com as quais estou trabalhando nos estudos. O nível de experiência evolui conforme a prática e os projetos.
+ </div>
 <br>
 
-<h4>PROJETOS E PRÁTICA</h4>
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Node.js, Git, GitHub e Visual Studio Code">
+</div>
+
 <br>
 
-Nexus Bank
+<li>HTML5	Estruturação semântica de páginas web CSS3	Estilização, Flexbox, Grid e responsividade</li>
+<li>JavaScript	Lógica de programação, funções, arrays, DOM e eventos</li>
+<li>Node.js	Ambiente de execução JavaScript fora do navegador e contato com desenvolvimento Back-End</li>
+
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
+<h3>PROJETOS E PRÁTICA</h3>
+ </div>
+<br>
+
 Projeto de estudo de uma interface bancária, desenvolvido para praticar a construção de interfaces e a lógica no navegador.
 - Estruturação com HTML;
 - Estilização e organização visual com CSS;
@@ -92,16 +94,34 @@ Projeto de estudo de uma interface bancária, desenvolvido para praticar a const
 Desenvolvimento Web
 Prática na criação de páginas e interfaces responsivas, com atenção à hierarquia visual, experiência do usuário, organização do código e adaptação para dispositivos móveis.
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <div align="center">
   <a href="https://github.com/viniciusliins?tab=repositories">
     <img src="https://img.shields.io/badge/VER_MEUS_REPOSIT%C3%93RIOS-80643D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ver meus repositórios no GitHub">
+   
   </a>
 </div>
 
-
-<h3>ESTATÍSTICAS DO GITHUB</h3>
+<br>
+<br>
+<br>
+<br>
 
 <div align="center">
+<h3>ESTATÍSTICAS DO GITHUB</h3>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+ 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=viniciusliins&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=C9A66B&text_color=D0D0D0&icon_color=C9A66B&rank_icon=github" alt="Estatísticas do GitHub de Vinícius">
   
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusliins&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=C9A66B&text_color=D0D0D0" alt="Linguagens mais utilizadas nos repositórios">
@@ -112,32 +132,38 @@ Prática na criação de páginas e interfaces responsivas, com atenção à hie
 
 <br>
 <br>
+<br>
 
+<div align="center">
 <h3>ATIVIDADE</h3>
+</div>
+
+<br>
 
 <div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusliins&bg_color=0D0D0F&color=C9A66B&line=80643D&point=E8D3AE&area=true&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub">
 </div>
 <br>
 
+<div align="center">
 <h3>FORMAÇÃO E ESTUDOS</h3>
+</div>
 <br>
 
-Formação	Instituição	Status
-Engenharia de Software	UniCesumar	Em andamento
-JavaScript e lógica de programação	Estudos independentes	Em andamento
-Desenvolvimento Web	Estudos independentes	Em andamento
-Node.js	Estudos independentes	Em desenvolvimento
+<h5>Formação	Instituição	e Status</h5>
+
+<li>Engenharia de Software	UniCesumar	em andamento</li>
+<li>JavaScript e lógica de programação	Estudos independentes	em andamento</li>
+<li>Desenvolvimento Web	Estudos independentes	em andamento</li>
+<li>Node.js	Estudos independentes	em desenvolvimento</li>
 
 <br>
 <br>
+<br>
+<br>
 
-<h3>OBJETIVO PROFISSIONAL</h3>
-Busco minha primeira oportunidade profissional na área de tecnologia para aplicar o que venho aprendendo, contribuir com projetos reais e evoluir em colaboração com outros profissionais.
-
-Quero construir uma carreira sólida em Engenharia de Software, desenvolvendo capacidade de análise, resolução de problemas e criação de soluções bem estruturadas.
 <div align="center">“Knowledge is built through discipline.”
   
-VINÍCIUS LINS
+Vinicius lins
 <sub>Engenharia de Software · Desenvolvimento de Software · Brasil</sub>
 
 
