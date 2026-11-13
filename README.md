@@ -1,19 +1,8 @@
-<div align="center">
-
-<img src="./assets/cavaleiro-sentado.jpeg" width="100%" alt="Cavaleiro coroado observando um castelo sob a luz da lua">
-
-<br>
-
-# VINÍCIUS LINS
-
-### ENGENHARIA DE SOFTWARE · DESENVOLVIMENTO DE SOFTWARE
-
-*Disciplina para aprender. Conhecimento para construir. Constância para evoluir.*
-
+<div align="center"><img src="./assets/cavaleiro-sentado.jpeg" width="100%" alt="Cavaleiro coroado observando um castelo sob a lua em uma paisagem medieval sombria">
+VINÍCIUS LINS
+ENGENHARIA DE SOFTWARE · DESENVOLVIMENTO DE SOFTWARE
+Disciplina para aprender. Conhecimento para construir. Constância para evoluir.
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=17&duration=3200&pause=1100&color=C9A66B&center=true&vCenter=true&width=680&lines=Construindo+uma+base+t%C3%A9cnica+s%C3%B3lida.;Transformando+estudo+em+projetos.;Evoluindo+um+commit+de+cada+vez." alt="Texto animado de apresentação">
-
-<br>
-
 <a href="https://github.com/viniciusliins">
   <img src="https://img.shields.io/badge/GitHub-0B0B0D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
 </a>
@@ -24,31 +13,23 @@
   <img src="https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=C9A66B" alt="LinkedIn">
 </a>
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=viniciusliins&style=flat-square&color=80643D&label=VISITAS+AO+PERFIL" alt="Contador de visitas do perfil">
-
-</div>
-
----
-
-## SOBRE MIM
-
+<img src="https://komarev.com/ghpvc/?username=viniciusliins&style=flat-square&color=80643D&label=VISITAS+AO+PERFIL" alt="Contador de visitas do perfil"></div>SOBRE MIM
 <table>
   <tr>
     <td width="65%" valign="middle">
       Sou estudante de **Engenharia de Software na UniCesumar** e estou construindo minha trajetória na tecnologia por meio de estudo consistente e projetos práticos.
       <br><br>
-      Atualmente, estou fortalecendo minha base em **lógica de programação, HTML, CSS e JavaScript**, além de estudar ferramentas e fundamentos importantes para o desenvolvimento de software.
+      Atualmente, estou fortalecendo minha base em **lógica de programação, HTML, CSS e JavaScript**, enquanto utilizo ferramentas do dia a dia do desenvolvimento, como **Node.js, Git, GitHub e Visual Studio Code**.
       <br><br>
-      Meu objetivo é desenvolver uma visão ampla da engenharia: compreender não apenas como criar interfaces, mas também como projetar, implementar, testar e manter sistemas confiáveis.
+      Meu objetivo é desenvolver uma visão ampla da Engenharia de Software: compreender não apenas como criar interfaces, mas também como projetar, implementar, testar e manter sistemas confiáveis.
       <br><br>
       **No momento, estou direcionando meus estudos para:**
       <ul>
         <li>Fundamentos de programação e resolução de problemas;</li>
-        <li>Desenvolvimento web e construção de interfaces;</li>
-        <li>JavaScript e evolução gradual para o Back-End;</li>
-        <li>Git, GitHub e boas práticas de desenvolvimento;</li>
+        <li>Desenvolvimento web e construção de interfaces responsivas;</li>
+        <li>JavaScript e fundamentos de desenvolvimento Back-End;</li>
+        <li>Versionamento de código e organização de projetos;</li>
         <li>Engenharia de Software, qualidade e arquitetura de sistemas.</li>
       </ul>
     </td>
@@ -56,107 +37,62 @@
       <img src="./assets/cavaleiro-dark.jpeg" width="100%" alt="Cavaleiro com armadura escura, detalhes prateados e coroa luminosa">
     </td>
   </tr>
-</table>
+</table>TECNOLOGIAS E FERRAMENTAS
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Node.js, npm, Git, GitHub e Visual Studio Code"></div>Tecnologias
+Tecnologia	Utilização / foco atual
+HTML5	Estruturação semântica de páginas web
+CSS3	Estilização, Flexbox, Grid e responsividade
+JavaScript	Lógica de programação, funções, arrays, DOM e eventos
+Node.js	Ambiente de execução JavaScript fora do navegador e contato com desenvolvimento Back-End
 
----
 
-## TECNOLOGIAS E FERRAMENTAS
+Ferramentas de desenvolvimento
+Ferramenta	Utilização
+Visual Studio Code	Editor de código utilizado no desenvolvimento
+Git	Controle de versão e acompanhamento das alterações
+GitHub	Hospedagem de repositórios e apresentação dos projetos
+npm	Gerenciamento de pacotes do ecossistema Node.js
+Mobile View Preview	Visualização e conferência de layouts em diferentes tamanhos de tela
 
-<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub e Visual Studio Code">
+Esta lista representa as tecnologias e ferramentas que utilizo ou com as quais estou trabalhando nos estudos. O nível de experiência evolui conforme a prática e os projetos.
 
-</div>
-
-| Área | Foco de estudo |
-|:--|:--|
-| **HTML5** | Estrutura semântica e acessibilidade |
-| **CSS3** | Layout, Flexbox, Grid e responsividade |
-| **JavaScript** | Lógica, funções, arrays, DOM e eventos |
-| **Git e GitHub** | Versionamento, commits e organização de projetos |
-| **Engenharia de Software** | Requisitos, processos, qualidade e fundamentos de desenvolvimento |
-
-> As tecnologias e os tópicos acima representam minha jornada de aprendizado atual — não uma declaração de domínio avançado.
-
----
-
-## PROJETOS E PRÁTICA
-
-### Nexus Bank
-
+PROJETOS E PRÁTICA
+Nexus Bank
 Projeto de estudo de uma interface bancária, desenvolvido para praticar a construção de interfaces e a lógica no navegador.
-
 - Estruturação com HTML;
 - Estilização e organização visual com CSS;
 - Manipulação do DOM com JavaScript;
 - Eventos e validação de formulários;
 - Feedback visual para erros e sucesso.
-
-### Projetos de desenvolvimento web
-
+Desenvolvimento Web
 Prática na criação de páginas e interfaces responsivas, com atenção à hierarquia visual, experiência do usuário, organização do código e adaptação para dispositivos móveis.
-
 <div align="center">
   <a href="https://github.com/viniciusliins?tab=repositories">
     <img src="https://img.shields.io/badge/VER_MEUS_REPOSIT%C3%93RIOS-80643D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Ver meus repositórios no GitHub">
   </a>
-</div>
-
----
-
-## ESTATÍSTICAS DO GITHUB
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=viniciusliins&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=C9A66B&text_color=D0D0D0&icon_color=C9A66B&rank_icon=github" alt="Estatísticas do GitHub de Vinícius">
+</div>ESTATÍSTICAS DO GITHUB
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=viniciusliins&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=C9A66B&text_color=D0D0D0&icon_color=C9A66B&rank_icon=github" alt="Estatísticas do GitHub de Vinícius">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusliins&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=C9A66B&text_color=D0D0D0" alt="Linguagens mais utilizadas nos repositórios">
 
-<br><br>
 
-<img width="85%" src="https://streak-stats.demolab.com?user=viniciusliins&theme=dark&hide_border=true&background=0D0D0F&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B&sideLabels=D0D0D0&dates=999999" alt="Sequência de contribuições no GitHub">
+<img width="85%" src="https://streak-stats.demolab.com?user=viniciusliins&theme=dark&hide_border=true&background=0D0D0F&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B&sideLabels=D0D0D0&dates=999999" alt="Sequência de contribuições no GitHub"></div>ATIVIDADE
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusliins&bg_color=0D0D0F&color=C9A66B&line=80643D&point=E8D3AE&area=true&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub"></div>FORMAÇÃO E ESTUDOS
+Formação	Instituição	Status
+Engenharia de Software	UniCesumar	Em andamento
+JavaScript e lógica de programação	Estudos independentes	Em andamento
+Desenvolvimento Web	Estudos independentes	Em andamento
+Node.js	Estudos independentes	Em desenvolvimento
 
-</div>
 
----
-
-## ATIVIDADE
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusliins&bg_color=0D0D0F&color=C9A66B&line=80643D&point=E8D3AE&area=true&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub">
-
-</div>
-
----
-
-## FORMAÇÃO
-
-| Formação | Instituição | Status |
-|:--|:--|:--|
-| Engenharia de Software | UniCesumar | Em andamento |
-| JavaScript e lógica de programação | Estudos independentes | Em andamento |
-| Desenvolvimento Web | Estudos independentes | Em andamento |
-
----
-
-## OBJETIVO
-
+OBJETIVO PROFISSIONAL
 Busco minha primeira oportunidade profissional na área de tecnologia para aplicar o que venho aprendendo, contribuir com projetos reais e evoluir em colaboração com outros profissionais.
 
 Quero construir uma carreira sólida em Engenharia de Software, desenvolvendo capacidade de análise, resolução de problemas e criação de soluções bem estruturadas.
-
----
-
-<div align="center">
-
-*“Knowledge is built through discipline.”*
-
-### VINÍCIUS LINS
-
+<div align="center">“Knowledge is built through discipline.”
+VINÍCIUS LINS
 <sub>Engenharia de Software · Desenvolvimento de Software · Brasil</sub>
 
-<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:80643D,50:211A12,100:0D0D0F" width="100%" alt="Rodapé em tons escuros e dourados">
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:80643D,50:211A12,100:0D0D0F" width="100%" alt="Rodapé em tons escuros e dourados"></div>
