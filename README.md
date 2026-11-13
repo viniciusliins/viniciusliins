@@ -2,10 +2,12 @@
 <h1>VINÍCIUS LINS</h1>
 <br>
 <br>
+
+
  
 ENGENHARIA DE SOFTWARE · DESENVOLVIMENTO DE SOFTWARE
 
-Disciplina para aprender. Conhecimento para construir. Constância para evoluir.
+Disciplina para aprender, conhecimento para construir e constância para evoluir.
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=17&duration=3200&pause=1100&color=C9A66B&center=true&vCenter=true&width=680&lines=Construindo+uma+base+t%C3%A9cnica+s%C3%B3lida.;Transformando+estudo+em+projetos.;Evoluindo+um+commit+de+cada+vez." alt="Texto animado de apresentação">
 
@@ -23,6 +25,7 @@ Disciplina para aprender. Conhecimento para construir. Constância para evoluir.
 </a>
 </div>
 
+<br>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=viniciusliins&style=flat-square&color=80643D&label=VISITAS+AO+PERFIL" alt="Contador de visitas do perfil">
