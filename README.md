@@ -1,18 +1,25 @@
 <div align="center"><img src="./assets/cavaleiro-sentado.jpeg" width="100%" alt="Cavaleiro coroado observando um castelo sob a lua em uma paisagem medieval sombria">
 VINÍCIUS LINS
+  
 ENGENHARIA DE SOFTWARE · DESENVOLVIMENTO DE SOFTWARE
+
 Disciplina para aprender. Conhecimento para construir. Constância para evoluir.
+
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=17&duration=3200&pause=1100&color=C9A66B&center=true&vCenter=true&width=680&lines=Construindo+uma+base+t%C3%A9cnica+s%C3%B3lida.;Transformando+estudo+em+projetos.;Evoluindo+um+commit+de+cada+vez." alt="Texto animado de apresentação">
+
+<div align="center">
 <a href="https://github.com/viniciusliins">
   <img src="https://img.shields.io/badge/GitHub-0B0B0D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
 </a>
+  
 <a href="https://www.instagram.com/linsztx/">
   <img src="https://img.shields.io/badge/Instagram-0B0B0D?style=for-the-badge&logo=instagram&logoColor=C9A66B" alt="Instagram">
 </a>
+
 <a href="https://www.linkedin.com/in/vinicius-lins-9407553aa/">
   <img src="https://img.shields.io/badge/LinkedIn-0B0B0D?style=for-the-badge&logo=linkedin&logoColor=C9A66B" alt="LinkedIn">
 </a>
-
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=viniciusliins&style=flat-square&color=80643D&label=VISITAS+AO+PERFIL" alt="Contador de visitas do perfil"></div>SOBRE MIM
 <table>
