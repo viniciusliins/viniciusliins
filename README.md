@@ -122,10 +122,23 @@ Prática na criação de páginas e interfaces responsivas, com atenção à hie
 
 <div align="center">
  
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=viniciusliins&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=C9A66B&text_color=D0D0D0&icon_color=C9A66B&rank_icon=github" alt="Estatísticas do GitHub de Vinícius">
+  <div align="center">
+   
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=viniciusliins&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=C9A66B&text_color=D0D0D0&icon_color=C9A66B&rank_icon=github"
+    alt="Estatísticas do GitHub de Vinícius"
+  />
   
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusliins&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=C9A66B&text_color=D0D0D0" alt="Linguagens mais utilizadas nos repositórios">
-
+ <br>
+ 
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=viniciusliins&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=C9A66B&text_color=D0D0D0"
+    alt="Linguagens mais utilizadas nos repositórios"
+  />
+  
+<br>
 
 <img width="85%" src="https://streak-stats.demolab.com?user=viniciusliins&theme=dark&hide_border=true&background=0D0D0F&ring=C9A66B&fire=C9A66B&currStreakLabel=C9A66B&sideLabels=D0D0D0&dates=999999" alt="Sequência de contribuições no GitHub">
 </div>
